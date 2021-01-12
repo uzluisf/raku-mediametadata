@@ -1,0 +1,6 @@
+use Test;
+use MediaMetadata;
+
+pass "replace me";
+
+done-testing;
